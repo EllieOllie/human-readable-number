@@ -24,6 +24,8 @@
     "chai": "^4.2.0",
     "colors": "^1.4.0",
     "mocha": "^6.2.2",
+    "num-words": "^1.2.2",
+    "number-words": "^1.1.1",
     "semver": "^6.3.0"
   }
 }
